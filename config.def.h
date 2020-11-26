@@ -11,3 +11,6 @@ static const char *colorname[NUMCOLS] = {
 
 /* treat a cleared input like a wrong password (color) */
 static const int failonclear = 0;
+
+/* XBell sound: 0 -> 100 */
+static const int bellvolume = 0;
